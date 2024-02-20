@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tony-android-dev&show_icons=true&locale=en&layout=compact" alt="tony-android-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tony-android-dev&show_icons=true&locale=en" alt="tony-android-dev" /></p>
+
